@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmicro_frontends_react_js=self.webpackChunkmicro_frontends_react_js||[]).push([[100],{31100:function(c,e,s){c.exports=s.p+"static/media/logo.6ce24c58023cc2f8fd88.svg"}}]);

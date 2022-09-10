@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmicro_frontends_react_js=self.webpackChunkmicro_frontends_react_js||[]).push([[511],{79511:function(e,s,c){c.r(s);c(24089)}}]);

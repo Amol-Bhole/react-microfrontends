@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmicro_frontends_react_js=self.webpackChunkmicro_frontends_react_js||[]).push([[737],{52737:function(e,t,n){n.r(t);var r=n(99607),s=n(9555),c=n(80184);test("renders learn react link",(function(){(0,r.sY)((0,c.jsx)(s.default,{}));var e=r.sp.getByText(/learn react/i);expect(e).toBeInTheDocument()}))}}]);
+//# sourceMappingURL=737.4019bf0e.chunk.js.map

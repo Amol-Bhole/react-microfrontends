@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmicro_frontends_react_js=self.webpackChunkmicro_frontends_react_js||[]).push([[146],{33146:function(e,n,t){t.r(n);t(72791);var r=t(80184);n.default=function(e){return(0,r.jsxs)("h4",{children:["Rendered content is from Module One. Global theme set by container is"," ",e.globalContext.misc.theme,"!!"]})}}}]);
+//# sourceMappingURL=146.c78d0fe0.chunk.js.map
