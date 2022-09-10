@@ -4,7 +4,7 @@ const ModuleTwo = (props) => {
   return (
     <h4>
       Rendered content is from Module Two. Global Font Size set by container is{" "}
-      {props.globalContext.misc.fontSize}
+      {props.globalContext.misc.fontSize}!
     </h4>
   );
 };
